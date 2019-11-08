@@ -22,7 +22,8 @@ If **A** and **B** are both empty, define <img src="https://latex.codecogs.com/g
 
 **Jaccard distance:**
 
-measure the dissimilarity between sample sets.
+measure the dissimilarity between sample sets.    
+
 ![Jaccard distance](https://raw.githubusercontent.com/yasong/pics/master/blog/JD.png) 
 
 **Similarity of asymmetric binary attributes**
@@ -39,8 +40,8 @@ measure the dissimilarity between sample sets.
 
 **simple matching distance (SMD)**, which measures dissimilarity between sample sets, is given by **1 - SMC** 
 
-**Difference with the Jaccard index:**
-</br>
+**Difference with the Jaccard index:**    
+
 SMC calcutes the attribute without in both sets.
 
 - #### LSH (Locality-Sensitive Hashing, LSH)
