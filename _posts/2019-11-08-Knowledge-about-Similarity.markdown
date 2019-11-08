@@ -16,8 +16,9 @@ aka. **Intersection over Union**, **Jaccard similarity coefficient**
 
 
 ![Jaccard Index](https://raw.githubusercontent.com/yasong/pics/master/blog/JI.png) 
-<img src="https://latex.codecogs.com/gif.latex?0\leq&space;J(A,B)\leq&space;1" title="0\leq J(A,B)\leq 1" /> 
-If **A**$** and **B** are both empty, define <img src="https://latex.codecogs.com/gif.latex?J(A,B)=&space;1" title="J(A,B)= 1" />
+<img src="https://latex.codecogs.com/gif.latex?0\leq&space;J(A,B)\leq&space;1" title="0\leq J(A,B)\leq 1" />   
+
+If **A** and **B** are both empty, define <img src="https://latex.codecogs.com/gif.latex?J(A,B)=&space;1" title="J(A,B)= 1" />
 
 **Jaccard distance:**
 
@@ -26,7 +27,7 @@ measure the dissimilarity between sample sets.
 
 **Similarity of asymmetric binary attributes**
 
-<img src="https://latex.codecogs.com/gif.latex?J&space;=&space;\frac{M_{11}}{M_{01}&plus;M_{10}&plus;M_{11}}" title="J = \frac{M_{11}}{M_{01}+M_{10}+M_{11}}" />
+<img src="https://latex.codecogs.com/gif.latex?J&space;=&space;\frac{M_{11}}{M_{01}&plus;M_{10}&plus;M_{11}}" title="J = \frac{M_{11}}{M_{01}+M_{10}+M_{11}}" />    
 
 <img src="https://latex.codecogs.com/gif.latex?d_J&space;=&space;\frac{M_{0}&plus;M_{10}}{M_{01}&plus;M_{10}&plus;M_{11}}&space;=&space;1&space;-&space;J" title="d_J = \frac{M_{0}+M_{10}}{M_{01}+M_{10}+M_{11}} = 1 - J" />
 
