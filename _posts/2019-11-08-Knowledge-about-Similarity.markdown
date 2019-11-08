@@ -10,7 +10,7 @@ This blog is the note of learning the Similarity, which includes hash, Jaccard I
 
 #### 1. Jaccard Index
 
-![Jaccard Index](pic/JI.png)
+![Jaccard Index](https://github.com/yasong/yasong.github.io/tree/master/_posts/pic/JI.png)
 
 #### 2. LSH (Locality-Sensitive Hashing, LSH)
 
