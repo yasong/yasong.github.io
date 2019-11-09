@@ -9,8 +9,10 @@ This blog is the note of learning the Similarity, which includes hash, Jaccard I
 
 
 - #### Jaccard Index (雅卡尔指数)
-aka. **Intersection over Union**, **Jaccard similarity coefficient**
-**key word:**
+aka. **Intersection over Union**, **Jaccard similarity coefficient**    
+
+**key word:**    
+
 - gauge the similarity and deversity of sample sets.
 - finite sample sets.
 
