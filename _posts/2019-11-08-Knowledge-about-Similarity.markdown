@@ -68,7 +68,7 @@ In computer science, **locality-sensitive hashing (LSH)** is an algorithmic tech
 
 ![Hash](https://raw.githubusercontent.com/yasong/pics/master/blog/hash.png) 
 From above figure, obviously we can  know the difference between general hashing and locality-sensitive hashing. After two adjacent data in the high-dimensional data space are mapped to the low-dimensional data space, there will be a great probability of remaining adjacent. And two data that are not adjacent to each other will also have a high probability of not adjacent to each other in the low-dimensional space.    
-**传统哈希算法**：通过哈希函数尽量让不同的数据映射到不同的桶内，避免冲突的发生。
+**传统哈希算法**：通过哈希函数尽量让不同的数据映射到不同的桶内，避免冲突的发生。    
 **局部哈希算法**：通过哈希函数尽量将两个原先相邻的两个数据能够以较高的概率映射到同一个桶内，相似度低的以极低的概率映射到同一个桶内。
 
 Definition of Locality-sensitive hashing (from wikipedia):
