@@ -16,3 +16,9 @@ Embedding likes locality sensitive hash. Embedding的性质是使得在距离上
 
 此外Embedding还具有数学运算的特性。
 
+t-distributed Stochastic Neighbor Embedding(t-SNE) 将数据点之间的相似度转换为概率。
+
+
+图嵌入网络（Graph Embedding Network）
+
+网络的同质性（homophily）和结构性（structural equivalence）
