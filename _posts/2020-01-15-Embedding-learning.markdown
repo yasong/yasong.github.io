@@ -21,4 +21,4 @@ t-distributed Stochastic Neighbor Embedding(t-SNE) 将数据点之间的相似�
 
 图嵌入网络（Graph Embedding Network）
 
-网络的同质性（homophily）和结构性（structural equivalence）
+网络的同质性（homophily）和结构性（structural equivalence）：同质性是指距离相近的节点的embedding应尽量相似；结构性是指结构上相似的节点的embedding应该尽量接近。
