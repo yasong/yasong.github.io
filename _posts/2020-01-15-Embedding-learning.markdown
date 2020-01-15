@@ -7,4 +7,5 @@ categories: machine-learning
 
 This blog is the note of learning the embedding.
 
-#### 
+#### 1. What is embedding?
+In mathematics, an embedding (or imbedding) is one instance of some mathematical structure contained within another instance, such as a group that is a subgroup.
